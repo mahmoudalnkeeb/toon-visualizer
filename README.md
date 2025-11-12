@@ -31,7 +31,7 @@ Learn more about TOON here:
 ### Live Preview
 
 You can access the online version here:
-[TOON Visualizer Preview](#)
+[TOON Visualizer Preview](https://mahmoudalnkeeb.github.io/toon-visualizer)
 
 ### Preview
 
